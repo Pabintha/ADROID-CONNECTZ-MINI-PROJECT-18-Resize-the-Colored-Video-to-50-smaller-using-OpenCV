@@ -1,0 +1,1 @@
+# ADROID-CONNECTZ-MINI-PROJECT-18-Resize-the-Colored-Video-to-50-smaller-using-OpenCV
